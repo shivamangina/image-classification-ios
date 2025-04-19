@@ -2,6 +2,10 @@
 
 To find wheater a potato has a disease of  not by looking at the potato
 
+this repositary is build using uv. 
+
+
+
 ## Data collection
 
 we are using a kaggle data set https://huggingface.co/datasets/Nattakarn/fruit-and-vegetable-image-recognition
