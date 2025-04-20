@@ -2,9 +2,7 @@
 
 To find wheater a potato has a disease of  not by looking at the potato
 
-this repository is build using uv. 
-
-
+this repositary is build using uv. 
 
 
 

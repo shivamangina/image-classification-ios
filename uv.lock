@@ -473,12 +473,14 @@ wheels = [
 ]
 
 [[package]]
-name = "image-classification-ios"
+name = "image-classification"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
     { name = "jupyter" },
+    { name = "jupyterlab" },
     { name = "matplotlib" },
+    { name = "notebook" },
     { name = "numpy" },
     { name = "pandas" },
 ]
@@ -486,7 +488,9 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "jupyter", specifier = ">=1.1.1" },
+    { name = "jupyterlab", specifier = ">=4.4.0" },
     { name = "matplotlib", specifier = ">=3.10.1" },
+    { name = "notebook", specifier = ">=7.4.0" },
     { name = "numpy", specifier = ">=2.2.4" },
     { name = "pandas", specifier = ">=2.2.3" },
 ]
