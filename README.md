@@ -42,9 +42,8 @@ we are using a kaggle data set https://huggingface.co/datasets/Nattakarn/fruit-a
 
 
 ## run the model
-1. run the model using the tf.serving and fastapi
+1. run the model using the torch.serving and fastapi
 2. create a /predict endpoint to predict the image that take the image data as an imput and returns the prediction
-3. write a docker file
 
 ## deploy the model on the 
 1. deploy the model in the aws sagemaker
