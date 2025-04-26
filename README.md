@@ -40,6 +40,7 @@ we are using a kaggle data set https://huggingface.co/datasets/Nattakarn/fruit-a
 3. Make a graph of the accuracy and loss
 4. save the model
 
+<!-- I will complete this model today -->
 
 ## run the model
 1. run the model using the torch.serving and fastapi
