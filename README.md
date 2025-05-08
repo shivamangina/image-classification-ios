@@ -1,7 +1,7 @@
 #  image-classification on on  webrtc
 
-To find whether a  has a disease of  not by looking at the potato
-
+pytorch projects
+ 
 this repository is build using uv. you should have the uv already installed.
 
 ```
